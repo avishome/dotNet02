@@ -1,0 +1,7 @@
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\bin\Debug\CardGame.exe
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\bin\Debug\CardGame.pdb
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\obj\Debug\CardGame.exe
+C:\Users\aelia\source\repos\dotNet5779_02_3013\CardGame\obj\Debug\CardGame.pdb
